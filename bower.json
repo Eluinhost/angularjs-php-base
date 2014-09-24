@@ -1,0 +1,28 @@
+{
+  "name": "TempApp",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "~1.2.19",
+    "json3": "~3.3.1",
+    "es5-shim": "~3.1.0",
+    "font-awesome": "~4.1.0",
+    "angular-ui-router": "~0.2.10"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.16",
+    "angular-scenario": "1.2.16"
+  },
+  "overrides": {
+    "font-awesome": {
+      "main": [
+        "./scss/font-awesome.scss",
+        "./fonts/*"
+      ]
+    }
+  },
+  "appPath": "app",
+  "distPath": "web",
+  "resolutions": {
+    "angular": "~1.2.19"
+  }
+}

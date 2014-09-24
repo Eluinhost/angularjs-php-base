@@ -1,0 +1,7 @@
+# Prod only overrides/settings
+imports:
+    - { resource: config.yml }
+
+user:
+    name: Joe Bloggs
+    age: 21

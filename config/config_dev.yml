@@ -1,0 +1,7 @@
+# Dev only overrides/settings
+imports:
+    - { resource: config.yml }
+
+user:
+    name: Joe Blow
+    age: 27

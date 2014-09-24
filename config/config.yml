@@ -1,0 +1,4 @@
+# Shared config settings
+user:
+    name: Joe Bloggs
+    age: 27
